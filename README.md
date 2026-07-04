@@ -2,6 +2,10 @@
 
 <img align="left" src="assets/floating-silver-surfer.svg" alt="Floating Silver Surfer" width="180" hspace="80">
 
+<br>
+<br>
+<br>
+
 <ul>
   <li>284 contributions in 2026</li>
   <li>173 commits this year</li>
