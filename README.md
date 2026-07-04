@@ -1,8 +1,6 @@
 <h1 align="center">Nethum Weerasinghe</h1>
 
-<img align="left" src="assets/floating-silver-surfer.svg" alt="Floating Silver Surfer" width="180">
-
-<strong>GitHub stats</strong>
+<img align="left" src="assets/floating-silver-surfer.svg" alt="Floating Silver Surfer" width="180" hspace="80">
 
 <ul>
   <li>284 contributions in 2026</li>
